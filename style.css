@@ -57,17 +57,18 @@ body {
     margin-top: 1.4rem;
 }
 
-.sociak a{
+.sociak a {
     display: grid;
     place-items: center;
     text-decoration: none;
-    color:aqua
+    color: aqua; 
     border:1.6px solid salmon;
-    font-slize: 1.5rem;
+    font-size: 1.5rem;
     padding: 0.39rem;
     text-align: center;
-    }
+}
 
-    .social a:hover{
-        color: blueviolet
-        background-color:coral
+.social a:hover {
+    color: blueviolet;
+    background-color:coral;
+}
