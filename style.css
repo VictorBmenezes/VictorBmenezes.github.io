@@ -44,6 +44,14 @@ body {
 }
 
 .infos p {
-    font-size:  18px;
+    font-size: 18px;
     margin: 10px 0;
+}
+
+.social {
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1. 4rem;
+    margin-top: 1.4rem;
 }
