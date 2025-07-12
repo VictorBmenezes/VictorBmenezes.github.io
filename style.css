@@ -40,10 +40,10 @@ body {
 .infos h2 {
     font-size: 24px;
     margin-top: 10px;
-    color: gainsboro;
+    color: rgb(126, 32, 233)violet;
 }
 
 .infos p {
-    font: slize 18px;
+    font-size:  18px;
     margin: 10px 0;
 }
