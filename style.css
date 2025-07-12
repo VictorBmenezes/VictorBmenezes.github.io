@@ -41,3 +41,9 @@ color:blue;
     font-size: 24px;
     margin-top: 10px;
     color: gainsboro;
+}
+
+.infos p{
+    font: slize 18px;
+    margin: 10px 0;
+}
