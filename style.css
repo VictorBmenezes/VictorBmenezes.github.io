@@ -67,3 +67,7 @@ body {
     padding: 0.39rem;
     text-align: center;
     }
+
+    .social a:hover{
+        color: blueviolet
+        background-color:coral
