@@ -61,3 +61,8 @@ body {
     place-items: center;
     text-decoration: none;
     color:aqua
+    border:1.6px solid salmon;
+    font-slize: 1.5rem;
+    padding: 0.39rem;
+    text-align: center;
+    }
