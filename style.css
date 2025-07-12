@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(253, 253, 253);
+    background-color: salmon;
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -35,7 +35,7 @@ body {
 .infos h1 {
     font-size: 48px;
     margin: 0;
-    color: blue;
+    color: rgb(240, 223, 71);
 }
 
 .infos h2 {
