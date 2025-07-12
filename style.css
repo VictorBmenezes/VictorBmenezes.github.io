@@ -27,7 +27,7 @@ body {
     flex: 1;
     padding: 60px;
     display: flex;
-    flex: direction: column;
+    flex-direction: column;
     justify-content: center;
 }
 
@@ -55,3 +55,9 @@ body {
     gap: 1. 4rem;
     margin-top: 1.4rem;
 }
+
+.sociak a{
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+    color:aqua
